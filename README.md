@@ -1,6 +1,6 @@
 # Rejuvenate
 
-![Rejuvenate Logo](public/images/Logo/transparent.png)
+![Rejuvenate Logo](./public/images/Logo/transparent.png)
 
 <!-- ![]() -->
 
