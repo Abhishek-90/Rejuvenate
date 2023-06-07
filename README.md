@@ -1,6 +1,9 @@
 # Rejuvenate
 
-![Logo](public/images/Logo/black.png)
+<div align="center">
+<!-- ![Logo](public/images/Logo/black.png) -->
+<img src="./public/images/Logo/black.png" alt="Logo" width="150px">
+</div>
 
 Browser Extension that reminds you for your self well Being. It provides reminders to drink water, take a walk, do some stretching and in general take a break from screen.
 
