@@ -1,0 +1,12 @@
+// global colors used in the app
+
+// global font-sizes used in the app
+$normal-fonts: 24px;
+
+.app-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
